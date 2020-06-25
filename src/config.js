@@ -12,5 +12,7 @@ export default {
       USER_POOL_ID: "eu-west-1_D2D17cUnb", // "YOUR_COGNITO_USER_POOL_ID",
       APP_CLIENT_ID: "5j58l70l3m4h4s2ngr8p8debo9", // "YOUR_COGNITO_APP_CLIENT_ID",
       IDENTITY_POOL_ID: "eu-west-1:64cf5b84-09eb-4d3a-9e14-c8306aa9752f" // "YOUR_IDENTITY_POOL_ID"
-    }
+    },
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_51GxGrRBmC3H9RVJIe1gmioDNjD4Kj6VYcMaineyBwOyRq4nDFyu2vNuO3LSC4F5gzxJetzsKcOR3LETCiPMQ4Lhj00nTcAsFqv",
   };
